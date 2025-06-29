@@ -34,6 +34,7 @@ ENV/
 # Uploaded images
 static/assets/uploads/*
 !static/assets/uploads/.gitkeep
+data_pattern/*
 
 
 # Environment variables
